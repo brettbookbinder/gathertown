@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gathertown/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/gathertown/static/js/main.eb8cacc0.chunk.js",
+    "main.js.map": "/gathertown/static/js/main.eb8cacc0.chunk.js.map",
+    "runtime-main.js": "/gathertown/static/js/runtime-main.92ebfc52.js",
+    "runtime-main.js.map": "/gathertown/static/js/runtime-main.92ebfc52.js.map",
+    "static/js/2.eb5d1811.chunk.js": "/gathertown/static/js/2.eb5d1811.chunk.js",
+    "static/js/2.eb5d1811.chunk.js.map": "/gathertown/static/js/2.eb5d1811.chunk.js.map",
+    "static/js/3.64193e53.chunk.js": "/gathertown/static/js/3.64193e53.chunk.js",
+    "static/js/3.64193e53.chunk.js.map": "/gathertown/static/js/3.64193e53.chunk.js.map",
+    "index.html": "/gathertown/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/gathertown/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.eb5d1811.chunk.js.LICENSE.txt": "/gathertown/static/js/2.eb5d1811.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/gathertown/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92ebfc52.js",
+    "static/js/2.eb5d1811.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.eb8cacc0.chunk.js"
+  ]
+}
