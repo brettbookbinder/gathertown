@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/gathertown/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/gathertown/static/js/main.4a74409b.chunk.js",
-    "main.js.map": "/gathertown/static/js/main.4a74409b.chunk.js.map",
-    "runtime-main.js": "/gathertown/static/js/runtime-main.f6b3e3ea.js",
-    "runtime-main.js.map": "/gathertown/static/js/runtime-main.f6b3e3ea.js.map",
-    "static/css/2.4c97ca4f.chunk.css": "/gathertown/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.3b79570e.chunk.js": "/gathertown/static/js/2.3b79570e.chunk.js",
-    "static/js/2.3b79570e.chunk.js.map": "/gathertown/static/js/2.3b79570e.chunk.js.map",
-    "static/js/3.a1d30f3a.chunk.js": "/gathertown/static/js/3.a1d30f3a.chunk.js",
-    "static/js/3.a1d30f3a.chunk.js.map": "/gathertown/static/js/3.a1d30f3a.chunk.js.map",
+    "main.js": "/gathertown/static/js/main.124a4005.chunk.js",
+    "main.js.map": "/gathertown/static/js/main.124a4005.chunk.js.map",
+    "runtime-main.js": "/gathertown/static/js/runtime-main.a1354a8a.js",
+    "runtime-main.js.map": "/gathertown/static/js/runtime-main.a1354a8a.js.map",
+    "static/css/2.184f8ef6.chunk.css": "/gathertown/static/css/2.184f8ef6.chunk.css",
+    "static/js/2.b3173670.chunk.js": "/gathertown/static/js/2.b3173670.chunk.js",
+    "static/js/2.b3173670.chunk.js.map": "/gathertown/static/js/2.b3173670.chunk.js.map",
+    "static/js/3.d4811df6.chunk.js": "/gathertown/static/js/3.d4811df6.chunk.js",
+    "static/js/3.d4811df6.chunk.js.map": "/gathertown/static/js/3.d4811df6.chunk.js.map",
     "index.html": "/gathertown/index.html",
-    "static/css/2.4c97ca4f.chunk.css.map": "/gathertown/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/2.184f8ef6.chunk.css.map": "/gathertown/static/css/2.184f8ef6.chunk.css.map",
     "static/css/main.6dea0f05.chunk.css.map": "/gathertown/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.3b79570e.chunk.js.LICENSE.txt": "/gathertown/static/js/2.3b79570e.chunk.js.LICENSE.txt"
+    "static/js/2.b3173670.chunk.js.LICENSE.txt": "/gathertown/static/js/2.b3173670.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f6b3e3ea.js",
-    "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.3b79570e.chunk.js",
+    "static/js/runtime-main.a1354a8a.js",
+    "static/css/2.184f8ef6.chunk.css",
+    "static/js/2.b3173670.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.4a74409b.chunk.js"
+    "static/js/main.124a4005.chunk.js"
   ]
 }
