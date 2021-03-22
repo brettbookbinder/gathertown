@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/gathertown/static/css/main.d725c3ff.chunk.css",
-    "main.js": "/gathertown/static/js/main.145002c5.chunk.js",
-    "main.js.map": "/gathertown/static/js/main.145002c5.chunk.js.map",
+    "main.js": "/gathertown/static/js/main.da99a5c6.chunk.js",
+    "main.js.map": "/gathertown/static/js/main.da99a5c6.chunk.js.map",
     "runtime-main.js": "/gathertown/static/js/runtime-main.3787db4b.js",
     "runtime-main.js.map": "/gathertown/static/js/runtime-main.3787db4b.js.map",
     "static/css/2.184f8ef6.chunk.css": "/gathertown/static/css/2.184f8ef6.chunk.css",
-    "static/js/2.8ec066da.chunk.js": "/gathertown/static/js/2.8ec066da.chunk.js",
-    "static/js/2.8ec066da.chunk.js.map": "/gathertown/static/js/2.8ec066da.chunk.js.map",
+    "static/js/2.35641e8f.chunk.js": "/gathertown/static/js/2.35641e8f.chunk.js",
+    "static/js/2.35641e8f.chunk.js.map": "/gathertown/static/js/2.35641e8f.chunk.js.map",
     "static/js/3.cb55c046.chunk.js": "/gathertown/static/js/3.cb55c046.chunk.js",
     "static/js/3.cb55c046.chunk.js.map": "/gathertown/static/js/3.cb55c046.chunk.js.map",
     "index.html": "/gathertown/index.html",
     "static/css/2.184f8ef6.chunk.css.map": "/gathertown/static/css/2.184f8ef6.chunk.css.map",
     "static/css/main.d725c3ff.chunk.css.map": "/gathertown/static/css/main.d725c3ff.chunk.css.map",
-    "static/js/2.8ec066da.chunk.js.LICENSE.txt": "/gathertown/static/js/2.8ec066da.chunk.js.LICENSE.txt"
+    "static/js/2.35641e8f.chunk.js.LICENSE.txt": "/gathertown/static/js/2.35641e8f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3787db4b.js",
     "static/css/2.184f8ef6.chunk.css",
-    "static/js/2.8ec066da.chunk.js",
+    "static/js/2.35641e8f.chunk.js",
     "static/css/main.d725c3ff.chunk.css",
-    "static/js/main.145002c5.chunk.js"
+    "static/js/main.da99a5c6.chunk.js"
   ]
 }
